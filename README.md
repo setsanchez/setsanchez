@@ -7,7 +7,7 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/Sailok&gt;</code></h1>
+<h1 align="left">Hi! I'm <code>&lt;/Set Daniel&gt;</code></h1>
 
 <p align="left">
   I'm a <strong>Computer Technician</strong> specialized in <strong>web and mobile app development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
